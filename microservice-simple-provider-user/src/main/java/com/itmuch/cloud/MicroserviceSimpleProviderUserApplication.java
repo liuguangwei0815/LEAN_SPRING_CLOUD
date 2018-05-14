@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MicroserviceSimpleProviderUserApplication {
 
 	public static void main(String[] args) {
-		//
+		//  
 		SpringApplication.run(MicroserviceSimpleProviderUserApplication.class, args);
 	}
 }
